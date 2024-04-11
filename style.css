@@ -1,7 +1,9 @@
-#titulo {
-    color:purple;
+#enlace-principal {
+    color: green;
+    text-decoration: green wavy underline;
 }
 
-.texto-azul {
-   color: blue; 
+.sin-subrayado {
+  color: blue;
+  text-decoration: none;
 }
